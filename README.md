@@ -20,27 +20,21 @@ this  delete  debugger
 ```
 Recursos:
 
-http://codepen.io/pens/
-https://jsfiddle.net/
-https://developer.mozilla.org/en-US
-https://developer.mozilla.org/en/docs/Web/CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+- http://codepen.io/pens/
+- https://jsfiddle.net/
+- https://developer.mozilla.org/en-US
+- https://developer.mozilla.org/en/docs/Web/CSS
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input-
 
-http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0
+- http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0
 
 DEMO:
-div + css: https://jsfiddle.net/3uj9a5yz/
-elements: https://jsfiddle.net/escusado/cubt5o0u/
-all elements: https://jsfiddle.net/escusado/sxwtexhj/
-css: https://jsfiddle.net/escusado/ag468uub/2/
-colors: http://www.daviddurman.com/flexi-color-picker/#
-js :
-js & dom: https://jsfiddle.net/escusado/zc53jpx4/
-
-http://jsbin.com/?html,css,js,console,output
-
-
-hearthstone tool
-ademame chef chang
+- div + css: https://jsfiddle.net/3uj9a5yz/
+- elements: https://jsfiddle.net/escusado/cubt5o0u/
+- all elements: https://jsfiddle.net/escusado/sxwtexhj/
+- css: https://jsfiddle.net/escusado/ag468uub/2/
+- colors: http://www.daviddurman.com/flexi-color-picker/#
+- js : http://jsbin.com/?html,css,js,console,output
+- js & dom: https://jsfiddle.net/escusado/zc53jpx4/
